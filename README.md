@@ -1,5 +1,5 @@
 # $.uite
-jQuery micro framework for html editing
+jQuery micro framework for html editing - [Home Page](http://leonardociaccio.github.io/uite/)
 
 #License
 
