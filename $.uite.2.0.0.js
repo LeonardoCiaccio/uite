@@ -3,7 +3,7 @@
     $.uite , jQuery micro framework for html editing
     
     © Copyright Leonardo Ciaccio 2015/16
-    leonado.ciaccio@gmail.com
+    leonardo.ciaccio@gmail.com
 
     MIT license
     https://tldrlegal.com/license/mit-license

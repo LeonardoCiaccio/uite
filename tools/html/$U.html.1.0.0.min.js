@@ -3,7 +3,7 @@
     $.uite 2.0.0 extension, editing for custom style and script
     
     © Copyright Leonardo Ciaccio 2015/16
-    leonado.ciaccio@gmail.com
+    leonardo.ciaccio@gmail.com
 
     MIT license
     https://tldrlegal.com/license/mit-license
