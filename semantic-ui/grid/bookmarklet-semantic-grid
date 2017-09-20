@@ -1,0 +1,1 @@
+javascript:!function(e,t){"use strict";if(!e||!t){var r="$.uite.tools.edit require '$.uite' framework";throw alert(r),new Error(r)}var o="<div class='ui grid two column'><div class='wide column'>column</div><div class='wide column'>column</div></div>";(!e.tools.select||t().selected().append(o).length<1)&&$("body").append(o)}(window.$U,window.$I);void(0);

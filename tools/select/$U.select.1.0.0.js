@@ -299,7 +299,7 @@
         
         ,
         
-        styles : ".suite-parent-worker{border: 1px solid black!important;}.suite-selected{border: 1px solid red!important;}.suite-worker{border: 1px dashed grey!important;}.suite-parent-worker.suite-worker, .suite-selected.suite-worker{border: 1px dashed red!important;-webkit-transition: border-color .5s;transition: border-color .5s;}"
+        styles : ".suite-parent-worker{outline: 1px solid black!important;}.suite-selected{outline: 1px solid red!important;}.suite-worker{outline: 1px dashed grey!important;}.suite-parent-worker.suite-worker, .suite-selected.suite-worker{outline: 1px dashed red!important;-webkit-transition: outline-color .5s;transition: outline-color .5s;}"
 
     } // <-- Config
    

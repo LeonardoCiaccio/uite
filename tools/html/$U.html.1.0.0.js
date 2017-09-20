@@ -86,7 +86,7 @@
                         + $( event.target ).val().substring( end ) 
                 );
 
-            event.target.selectionStart = event.target.selectionEnd = start + 1;
+            event.target.selectionStart = event.target.selectionEnd = start + 8;
             
         }
         
